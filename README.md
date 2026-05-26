@@ -1,4 +1,4 @@
-## 🩺 About · 소개
+##  About · 소개
 
   **EN** — **Golden Time** is a healthcare & emergency-AI team. In emergency medicine the *golden 
   hour* is the narrow window where the right call saves a life. We build AI that makes that window
@@ -10,7 +10,7 @@
 
 
 
-  ## 👥 Team · 팀원
+  ##  Team · 팀원
 
   | 이름 · Name | 역할 · Role | GitHub |
   |---|---|---|
@@ -21,7 +21,7 @@
 
 
 
-  ## 🚀 Projects · 프로젝트
+  ##  Projects · 프로젝트
 
   **[chartoneshot](https://chartoneshot.com)** — *Emergency triage: 7 minutes → 30 seconds.*
   An OCR + LLM pipeline reads chaotic, unstructured EMR documents and returns color-coded triage
@@ -30,5 +30,5 @@
 
 
   
-  ## 📫 Contact · 연락
+  ##  Contact · 연락
   📧 **goldentime119119@gmail.com**
