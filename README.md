@@ -16,7 +16,7 @@
   |---|---|---|
   | 조호영 · Hoyoung Cho | 🧭 리더 (Lead · MED) |[@superbigjoycho-netizen](https://github.com/superbigjoycho-netizen) |
   | 박보은 · Boeun Park | 🎨 UI/UX 디자인 (UI/UX Design) | [@eun158](https://github.com/eun158) |
-  | 박준이 · Juni Park | 🧩 풀스택 개발 (Full-stack Dev) | [@zune2222](https://github.com/zune2222) |
+  | 박준이 · Jun-e Park | 🧩 풀스택 개발 (Full-stack Dev) | [@zune2222](https://github.com/zune2222) |
   | 김용하 · Yongha Kim | 📊 데이터 분석 (Data analysys) |[@click6067-ship-it](https://github.com/click6067-ship-it) |
 
 
